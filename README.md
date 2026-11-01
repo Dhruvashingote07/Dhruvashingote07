@@ -21,10 +21,10 @@
 ```java
 public class Dhruv {
 
-    String name       = "Dhruv Ashingote";
+    String name       = "Dhruv shingote";
     String role       = "Full Stack Java Developer";
     String education  = "Diploma in Computer Engineering (MSBTE, Maharashtra)";
-    String location   = "Bhiwandi / Pune, Maharashtra 🇮🇳";
+    String location   = "Pimpri  / Pune, Maharashtra 🇮🇳";
 
     String[] currentlyBuilding = {
         "CCTS — Civics Watch (Corruption Complaint & Tracking System)",
