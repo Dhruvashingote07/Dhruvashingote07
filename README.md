@@ -211,7 +211,7 @@ A structured **roadmap for Full Stack + AI Engineering** — from fundamentals t
 
 <div align="center">
 
-*"Learning fast. Building smart."* — Dhruv Ashingote
+*"Learning fast. Building smart."* — Dhruv shingote
 
 ⭐ **Like what you see? Star a repo and let's connect!** ⭐
 
