@@ -21,7 +21,7 @@
 ```java
 public class Dhruv {
 
-    String  name      = "Dhruv Ashingote";
+    String  name      = "Dhruv shingote";
     String  pronoun   = "he/him";
     String  role      = "Full Stack Developer — React + Java";
     String  education = "Diploma in Computer Engineering (MSBTE, Maharashtra)";
